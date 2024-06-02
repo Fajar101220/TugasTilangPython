@@ -1,0 +1,21 @@
+Masukkan tanggal (1-31): 27
+Masukkan jumlah kendaraan: 4
+Masukkan nama kendaraan: Denver
+Masukkan nomor plat kendaraan: B 2791 KDS
+Masukkan tipe kendaraan (Mobil/Motor): Mobil
+Masukkan rute kendaraan (pisahkan dengan koma): TB Simatupang,Panglima Polim,Depok,Senen Raya
+Masukkan nama kendaraan: Toni
+Masukkan nomor plat kendaraan: B 1212 JBB
+Masukkan tipe kendaraan (Mobil/Motor): Mobil
+Masukkan rute kendaraan (pisahkan dengan koma): Pintu Besar Selatan,Panglima Polim,Depok,Senen Raya,Kemang
+Masukkan nama kendaraan: Stark
+Masukkan nomor plat kendaraan: B 444 XSX
+Masukkan tipe kendaraan (Mobil/Motor): Motor
+Masukkan rute kendaraan (pisahkan dengan koma): Pondok Indah,Depok,Senen Raya,Kemang
+Masukkan nama kendaraan: Anna
+Masukkan nomor plat kendaraan: B 678 DD
+Masukkan tipe kendaraan (Mobil/Motor): Mobil
+Masukkan rute kendaraan (pisahkan dengan koma): Fatmawati,Panglima Polim,Depok,Senen Raya,Kemang,Gajah Mada
+Hasil razia:
+Toni mendapat tilang sebanyak 1
+Anna mendapat tilang sebanyak 3
